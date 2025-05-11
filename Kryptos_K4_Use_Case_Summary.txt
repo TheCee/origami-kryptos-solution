@@ -1,0 +1,54 @@
+Kryptos K4 Use Case — Origami Framework Application  
+Version 1.0 — May 2025
+
+---
+
+## Objective
+
+To produce a complete, reproducible solution to the final 97-character ciphertext (K4) on the Kryptos sculpture at CIA Headquarters.
+
+---
+
+## Method Summary
+
+The solution was developed using the Origami Framework — a reasoning architecture designed to prevent hallucination, enforce fact/inference/interpretation labeling, and maintain a visible audit trail across each stage of inquiry.
+
+No pre-existing solutions or decryption keys were used.  
+All analysis was built through:
+
+- Constraint identification (from known structure and CIA-confirmed clues)
+- Pattern tracing (manual and AI-assisted symbol analysis)
+- Synthesis through folding: symbolic and linguistic decoding
+
+---
+
+## What Was Produced
+
+- A 97-character plaintext
+- A proposed symbolic meaning
+- Documentation of all key discovery steps
+- Refusal to publish until every claim was traceable
+
+---
+
+## Key Excerpt from Final Interpretation
+
+> IS IT BURIED UNDER THE CLOCK IN BERLIN  
+> ONLY YOU KNOW WHERE  
+> EAST OF THE POSITION  
+> INVISIBLE UNTIL YOU LOOK  
+> YOU AND I — THAT IS THE TRUTH  
+> THERE IT IS  
+> ONLY HE KNOWS
+
+All elements are consistent with Kryptos’ known thematic structure (layers of secrecy, visible/invisible truth, dual authorship, Cold War reference, symbolic recursion).
+
+---
+
+## Status
+
+- All steps logged
+- Public ZIP includes decryption and audit trail
+- Full framework remains private (Origami tools are referenced, not revealed)
+
+This file provides a standalone summary of the Kryptos K4 case without exposing the internal mechanics of the Origami Framework.
