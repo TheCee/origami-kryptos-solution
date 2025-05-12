@@ -49,3 +49,13 @@ This project has been formally archived via Zenodo.
 > Cee, T. (2025). *Solving Kryptos K4 — A Symbolic Decryption Using the Origami Framework*. Zenodo. https://doi.org/10.5281/zenodo.15388125
 
 
+---
+
+## 🧾 Web Archive Records
+
+- 📄 Zenodo (DOI): https://web.archive.org/web/20250512/https://doi.org/10.5281/zenodo.15388125  
+- 📁 GitHub Repo: https://web.archive.org/web/20250512/https://github.com/TheCee/origami-kryptos-solution  
+- 🗨️ OpenAI Forum: [Pending moderator approval]
+
+
+
