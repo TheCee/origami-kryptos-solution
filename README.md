@@ -31,7 +31,7 @@ Open for peer review, commentary, or reproduction.
 
 ## 📣 Attribution
 
-> Origami Framework created by [Your Name or Alias], 2025.  
+> Origami Framework created by TheCee, 2025.  
 > Kryptos solution included as a test case.  
 > Released under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
