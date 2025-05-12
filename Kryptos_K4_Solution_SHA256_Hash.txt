@@ -1,0 +1,5 @@
+Kryptos K4 Final Decryption SHA-256 Hash:
+151040fc0811bf90be5ba49e3cc227ba4d2414ef3112e3dcb190148558ae8611
+
+This fingerprint confirms the original decrypted plaintext submitted.
+Use this hash to verify authorship across copies, publications, or forensic reviews.
