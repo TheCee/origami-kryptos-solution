@@ -51,11 +51,13 @@ This project has been formally archived via Zenodo.
 
 ---
 
-## 🧾 Web Archive Records
+## Web Archive Records
 
 - 📄 Zenodo (DOI): https://web.archive.org/web/20250512/https://doi.org/10.5281/zenodo.15388125  
 - 📁 GitHub Repo: https://web.archive.org/web/20250512/https://github.com/TheCee/origami-kryptos-solution  
-- 🗨️ OpenAI Forum: [Pending moderator approval]
+- 📜 ORIGAMI_FRAMEWORK.md: https://web.archive.org/web/20250512/https://github.com/TheCee/origami-kryptos-solution/blob/main/ORIGAMI_FRAMEWORK.md  
+- 🗨️ OpenAI Forum Post: [Pending approval]
+
 
 
 📘 [Formal Declaration: ORIGAMI_FRAMEWORK.md](./ORIGAMI_FRAMEWORK.md)
