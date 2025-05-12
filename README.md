@@ -35,3 +35,17 @@ Open for peer review, commentary, or reproduction.
 > Kryptos solution included as a test case.  
 > Released under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
+---
+
+## 📄 Citation and Public Archive
+
+This project has been formally archived via Zenodo.
+
+- 🔗 DOI: [https://doi.org/10.5281/zenodo.15388125](https://doi.org/10.5281/zenodo.15388125)
+- 📄 [View on Zenodo](https://zenodo.org/record/15388125)
+
+**Cite as:**
+
+> Cee, T. (2025). *Solving Kryptos K4 — A Symbolic Decryption Using the Origami Framework*. Zenodo. https://doi.org/10.5281/zenodo.15388125
+
+
