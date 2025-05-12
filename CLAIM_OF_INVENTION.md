@@ -25,6 +25,8 @@ This invention is established through:
 - ✅ **GitHub repository**: [https://github.com/TheCee/origami-kryptos-solution](https://github.com/TheCee/origami-kryptos-solution)
 - ✅ **SHA-256 authorship hash**: `0f6e03c0d8b24b1cfbe176ee6a86e442b1cb3ae4316461d9b48e49e7f56a73f3`
 - ✅ **Wayback archive** of all public records
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15388125.svg)](https://doi.org/10.5281/zenodo.15388125)
+
 
 This system has been applied to the 30-year unsolved Kryptos K4 cipher at CIA Headquarters — producing the first known full 97-character symbolic decryption using reasoning, not brute-force cryptanalysis.
 
