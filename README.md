@@ -58,4 +58,5 @@ This project has been formally archived via Zenodo.
 - 🗨️ OpenAI Forum: [Pending moderator approval]
 
 
+📘 [Formal Declaration: ORIGAMI_FRAMEWORK.md](./ORIGAMI_FRAMEWORK.md)
 
