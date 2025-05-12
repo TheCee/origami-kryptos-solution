@@ -41,7 +41,7 @@ Open for peer review, commentary, or reproduction.
 
 This project has been formally archived via Zenodo.
 
-- 🔗 DOI: [https://doi.org/10.5281/zenodo.15388125](https://doi.org/10.5281/zenodo.15388125)
+- 🔗 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15388125.svg)](https://doi.org/10.5281/zenodo.15388125)
 - 📄 [View on Zenodo](https://zenodo.org/record/15388125)
 
 **Cite as:**
