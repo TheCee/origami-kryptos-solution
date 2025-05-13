@@ -25,6 +25,14 @@ Originally built to solve K4, it now applies across:
 - `Kryptos_K4_GitHub_Release.zip` — Main project + supporting docs
 - `README.md` — This file
 
+- ### 🔎 Symbolic Audit Trail (Kryptos K4 Case Study)
+
+View the YAML-based symbolic reasoning trace of the K4 solution:  
+[Kryptos_K4_Origami_Reasoning.yaml](./archive/Kryptos_K4_Origami_Reasoning.yaml)
+
+This file shows each step tagged as Fact, Inference, or Interpretation using the Origami S1 format.
+
+
 ## 💬 Status
 
 Open for peer review, commentary, or reproduction.
