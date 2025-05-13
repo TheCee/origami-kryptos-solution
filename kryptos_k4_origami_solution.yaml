@@ -1,6 +1,6 @@
 kryptos_k4_solution:
   version: "origami-1.0"
-  author: "John Cain"
+  author: "TheCee"
   framework: "Origami-S1"
   context:
     objective: "Derive a symbolic, constraint-compliant interpretation of Kryptos K4"
