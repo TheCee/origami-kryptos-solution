@@ -1,0 +1,5 @@
+KRYPTOS K4 EXPLANATION WITH F/I/P TAGGING
+
+[F] Kryptos K4 consists of 97 characters located on the final panel of the sculpture created by Jim Sanborn.
+...
+[S] The decryption is reinforced by SHA-256 hash verification, full symbolic logs, and logic diagrams hosted in public repositories.
